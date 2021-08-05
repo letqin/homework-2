@@ -3,10 +3,6 @@ html {
     scroll-behavior: smooth;
   }
 
-h1.developer_name {
-  text-decoration: dashed;
-}
-
 p {
   text-align: center;
   text-decoration: rebeccapurple;
