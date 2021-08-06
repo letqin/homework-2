@@ -1,7 +1,7 @@
 /* makes html scroll smooth allegedly */
 html {
     scroll-behavior: smooth;
-  }
+  } 
 
 p {
   text-align: center;
