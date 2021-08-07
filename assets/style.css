@@ -1,9 +1,18 @@
-/* makes html scroll smooth allegedly */
+/* makes html scroll smooth */
 html {
     scroll-behavior: smooth;
   } 
 
+* {
+  background-color: #2C394B
+}
+
+.links ul li {
+  text-decoration: none;
+  display: grid;
+  grid-column-start: 4 / span 3;
+}
+
 p {
   text-align: center;
-  text-decoration: rebeccapurple;
 }
